@@ -1,0 +1,28 @@
+.text-justify{
+    text-align: justify;
+}
+
+.card-register{
+    box-shadow: 7px 7px 15px blue;
+}
+
+.newscard2 div{
+    overflow: hidden;
+    border-radius: 5px 5px 0 0;
+}
+
+.newscard2 div img{
+    transition: .5s ease;
+}
+
+.newscard2:hover img{
+    transform: scale(1.2);
+}
+
+.newscard1{
+    transition: 0.6s ease;
+}
+
+.newscard1:hover{
+    transform: translateY(-20px)
+}
